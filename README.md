@@ -1,7 +1,7 @@
 
 # Insurance Claim
 
-Insurance Claim Web Application was developed to allow users to apply for Health Insurance claims in a really easy manner, The users first have to register the main holder of the insurance after that they can also register the
+Insurance Claim Web Application was developed to allow users to apply for Health Insurance claims in a really easy manner, The users first have to register the main holder of the insurance with the application and after that is done they can also register the
 dependants of the holder if there are any, there is a primary Dependants registration form but if there are more than one dependants then using the add icon next to the form the user can register as many dependants as he wants
 then the user have to regsiter their policy details with the application where the user has to provide details such as what type of  Insurance it is, what is the policy registration number, the policy start date, the maturity amount etc.
 After that the user can claim their insurance any time they want, they just have to login back into the application, fill up the Claim Form and submit various documents related to policy for verification if needed  using the
